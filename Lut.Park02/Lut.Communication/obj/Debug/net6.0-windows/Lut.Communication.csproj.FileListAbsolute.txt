@@ -1,0 +1,12 @@
+E:\Apps\Lut.Park\Lut.Communication\bin\Debug\net6.0-windows\Lut.Communication.deps.json
+E:\Apps\Lut.Park\Lut.Communication\bin\Debug\net6.0-windows\Lut.Communication.dll
+E:\Apps\Lut.Park\Lut.Communication\bin\Debug\net6.0-windows\Lut.Communication.pdb
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.csproj.AssemblyReference.cache
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.AssemblyInfoInputs.cache
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.AssemblyInfo.cs
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.csproj.CoreCompileInputs.cache
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.dll
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\refint\Lut.Communication.dll
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\Lut.Communication.pdb
+E:\Apps\Lut.Park\Lut.Communication\obj\Debug\net6.0-windows\ref\Lut.Communication.dll

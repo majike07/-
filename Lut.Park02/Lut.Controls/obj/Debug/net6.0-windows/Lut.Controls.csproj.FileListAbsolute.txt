@@ -1,0 +1,17 @@
+E:\Apps\Lut.Park\Lut.Controls\bin\Debug\net6.0-windows\Lut.Controls.deps.json
+E:\Apps\Lut.Park\Lut.Controls\bin\Debug\net6.0-windows\Lut.Controls.dll
+E:\Apps\Lut.Park\Lut.Controls\bin\Debug\net6.0-windows\Lut.Controls.pdb
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.csproj.AssemblyReference.cache
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\UserControl1.g.cs
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls_MarkupCompile.cache
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls_MarkupCompile.lref
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\UserControl1.baml
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.g.resources
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.AssemblyInfoInputs.cache
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.AssemblyInfo.cs
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.csproj.CoreCompileInputs.cache
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.dll
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\refint\Lut.Controls.dll
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\Lut.Controls.pdb
+E:\Apps\Lut.Park\Lut.Controls\obj\Debug\net6.0-windows\ref\Lut.Controls.dll

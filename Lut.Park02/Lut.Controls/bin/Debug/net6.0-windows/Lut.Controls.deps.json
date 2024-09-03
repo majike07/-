@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lut.Controls/1.0.0": {
+        "runtime": {
+          "Lut.Controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lut.Controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
